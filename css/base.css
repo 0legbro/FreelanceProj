@@ -1,0 +1,33 @@
+/*font-family: 'Happy Monkey', cursive;
+font-family: 'Shojumaru', cursive;*/
+
+.body {
+
+}
+
+.main {
+    box-sizing: border-box;
+    width: 100%;
+
+    height: 2990px;
+    left: 1px;
+    top: 0;
+
+    background: linear-gradient(267.3deg, rgba(15, 15, 15, 0.86) 8.95%, #1F201F 66.31%);
+    border: 1px solid #000000;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+
+.nav-container {
+    font-family: 'Happy Monkey', cursive;
+    color: #26A458;
+    display: flex;
+}
+
+
+
+
+
+
